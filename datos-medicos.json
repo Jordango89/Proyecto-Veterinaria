@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "Angel",
+        "apellido": "Luna",
+        "cedula": "1234567",
+        "especialidad": "Dermatologia Medica",
+        "consultorio": "1A",
+        "correo": "angelluna@hotmail.com",
+        "pacientes": "Jorge"
+    },
+    {
+        "nombre": "Marlon",
+        "apellido": "Medina",
+        "cedula": "7654321",
+        "especialidad": "Cirugia Veterinaria",
+        "consultorio": "1B",
+        "correo": "marlonmedica@hotmail.com",
+        "pacientes": "Daniela"
+    }
+]
